@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-𝕬𝖗𝖈𝖍𝖔𝖓 Multi Device Bot is a automated whatsapp bot created by <a href="https://github.com/zephyr523" target="_blank">𝕬𝖗𝖈𝖍𝖔𝖓ᴹᴰ-ᴮᴼᵀ </a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs And cheems v8</a>. Dont forget to give a star bro.
+𝕬𝖗𝖈𝖍𝖔𝖓 Multi Device Bot is a automated whatsapp bot created by <a href="https://github.com/zephyr523" target="_blank">PATRON-MD </a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs And cheems v8</a>. Dont forget to give a star bro.
 </p>
 
 <p align="center">
@@ -22,13 +22,13 @@ WANNA USE BOT-HOSTING? DOWNLOAD THIS
 # ```Bot Info```
 <p align="center">
 <a href="https://github.com/zephyr523/followers"><img title="Followers" src="https://img.shields.io/github/followers/zephyr523?color=red&style=flat-square"></a>
-<a href="https://github.com/zephyr523/𝕬𝖗𝖈𝖍𝖔𝖓ᴹᴰ-ᴮᴼᵀ /stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zephyr523/𝕬𝖗𝖈𝖍𝖔𝖓ᴹᴰ-ᴮᴼᵀ ?color=blue&style=flat-square"></a>
-<a href="https://github.com/zephyr523/𝕬𝖗𝖈𝖍𝖔𝖓ᴹᴰ-ᴮᴼᵀ /network/members"><img title="Forks" src="https://img.shields.io/github/forks/zephyr523/𝕬𝖗𝖈𝖍𝖔𝖓ᴹᴰ-ᴮᴼᵀ ?color=red&style=flat-square"></a>
-<a href="https://github.com/zephyr523/𝕬𝖗𝖈𝖍𝖔𝖓ᴹᴰ-ᴮᴼᵀ /watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zephyr523/𝕬𝖗𝖈𝖍𝖔𝖓ᴹᴰ-ᴮᴼᵀ ?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/zephyr523/𝕬𝖗𝖈𝖍𝖔𝖓ᴹᴰ-ᴮᴼᵀ "><img title="Open Source" src="https://img.shields.io/badge/Author-𝕬𝖗𝖈𝖍𝖔𝖓%20Bot%20Inc.-red?v=103"></a>
-<a href="https://github.com/zephyr523/𝕬𝖗𝖈𝖍𝖔𝖓ᴹᴰ-ᴮᴼᵀ /"><img title="Size" src="https://img.shields.io/github/repo-size/zephyr523/𝕬𝖗𝖈𝖍𝖔𝖓ᴹᴰ-ᴮᴼᵀ ?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzephyr523%2F𝕬𝖗𝖈𝖍𝖔𝖓ᴹᴰ-ᴮᴼᵀ &count_bg=%2379C83D&title_bg=%235555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/zephyr523/𝕬𝖗𝖈𝖍𝖔𝖓ᴹᴰ-ᴮᴼᵀ /graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/zephyr523/PATRON-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zephyr523/PATRON-MD ?color=blue&style=flat-square"></a>
+<a href="https://github.com/zephyr523/PATRON-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zephyr523/PATRON-MD ?color=red&style=flat-square"></a>
+<a href="https://github.com/zephyr523/PATRON-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zephyr523/PATRON-MD ?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/zephyr523/PATRON-MD"><img title="Open Source" src="https://img.shields.io/badge/Author-𝕬𝖗𝖈𝖍𝖔𝖓%20Bot%20Inc.-red?v=103"></a>
+<a href="https://github.com/zephyr523/PATRON-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/zephyr523/PATRON-MD?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzephyr523%2FPATRON-MD &count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/zephyr523/PATRON-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
     </p>
@@ -40,7 +40,7 @@ WANNA USE BOT-HOSTING? DOWNLOAD THIS
 <p align="center">
 <a href="https://www.youtube.com/@Itzpatron1"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/@Itzpatron1" /><br>
 <a href="https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q"><img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q" /><br>
-<a href="https://t.me/patrontechhub"><img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=white" />
+<a href="https://t.me/THE_ELYSIAN_VAULT"><img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=white" />
 <a href="https://chat.whatsapp.com/C6pWKvDfFRTAXScxTGFqvP"><img src="https://img.shields.io/badge/Support Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://www.instagram.com/justt.patron?igsh=MzNlNGNkZWQ4Mg=="><img src="https://img.shields.io/badge/Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=white" />
 </p>
