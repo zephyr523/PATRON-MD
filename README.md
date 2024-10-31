@@ -1,10 +1,10 @@
 <h1 align="center">𝕬𝖗𝖈𝖍𝖔𝖓ᴹᴰ-ᴮᴼᵀ  <br></h1>
 <p align="center">
-<img src="https://i.imgur.com/XnKn6H3.jpeg" height="300" />
+<img src="https://imgur.com/a/UwzIkP5.jpeg" height="300" />
 </p>
 
 <p align="center">
-PATRON Multi Device is a automated whatsapp bot created by <a href="https://github.com/Itzpatron" target="_blank">Patron</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs And cheems v8</a>. Dont forget to give a star bro.
+𝕬𝖗𝖈𝖍𝖔𝖓 Multi Device Bot is a automated whatsapp bot created by <a href="https://github.com/zephyr523" target="_blank">𝕬𝖗𝖈𝖍𝖔𝖓ᴹᴰ-ᴮᴼᵀ </a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs And cheems v8</a>. Dont forget to give a star bro.
 </p>
 
 <p align="center">
@@ -13,26 +13,26 @@ PATRON Multi Device is a automated whatsapp bot created by <a href="https://gith
 
 ------
 
-WAN TO USE BOT HOSTING? DOWNLOAD THIS
+WANNA USE BOT-HOSTING? DOWNLOAD THIS
 
   
-<a href='https://www.mediafire.com/file/tzb429ttp2w28or/PATRON-MD-master+(1).zip/file' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Bot Hosting-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://www.mediafire.com/file/tzb429ttp2w28or/𝕬𝖗𝖈𝖍𝖔𝖓ᴹᴰ-ᴮᴼᵀ -master+(1).zip/file' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Bot Hosting-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 # ```Bot Info```
 <p align="center">
-<a href="https://github.com/Itzpatron/followers"><img title="Followers" src="https://img.shields.io/github/followers/Itzpatron?color=red&style=flat-square"></a>
-<a href="https://github.com/Itzpatron/PATRON-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Itzpatron/PATRON-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/Itzpatron/PATRON-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Itzpatron/PATRON-MD?color=red&style=flat-square"></a>
-<a href="https://github.com/Itzpatron/PATRON-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Itzpatron/PATRON-MD?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/Itzpatron/PATRON-MD"><img title="Open Source" src="https://img.shields.io/badge/Author-Patron%20Bot%20Inc.-red?v=103"></a>
-<a href="https://github.com/Itzpatron/PATRON-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/Itzpatron/PATRON-MD?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FItzpatron%2FPATRON-MD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/Itzpatron/PATRON-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/zephyr523/followers"><img title="Followers" src="https://img.shields.io/github/followers/zephyr523?color=red&style=flat-square"></a>
+<a href="https://github.com/zephyr523/𝕬𝖗𝖈𝖍𝖔𝖓ᴹᴰ-ᴮᴼᵀ /stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zephyr523/𝕬𝖗𝖈𝖍𝖔𝖓ᴹᴰ-ᴮᴼᵀ ?color=blue&style=flat-square"></a>
+<a href="https://github.com/zephyr523/𝕬𝖗𝖈𝖍𝖔𝖓ᴹᴰ-ᴮᴼᵀ /network/members"><img title="Forks" src="https://img.shields.io/github/forks/zephyr523/𝕬𝖗𝖈𝖍𝖔𝖓ᴹᴰ-ᴮᴼᵀ ?color=red&style=flat-square"></a>
+<a href="https://github.com/zephyr523/𝕬𝖗𝖈𝖍𝖔𝖓ᴹᴰ-ᴮᴼᵀ /watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zephyr523/𝕬𝖗𝖈𝖍𝖔𝖓ᴹᴰ-ᴮᴼᵀ ?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/zephyr523/𝕬𝖗𝖈𝖍𝖔𝖓ᴹᴰ-ᴮᴼᵀ "><img title="Open Source" src="https://img.shields.io/badge/Author-𝕬𝖗𝖈𝖍𝖔𝖓%20Bot%20Inc.-red?v=103"></a>
+<a href="https://github.com/zephyr523/𝕬𝖗𝖈𝖍𝖔𝖓ᴹᴰ-ᴮᴼᵀ /"><img title="Size" src="https://img.shields.io/github/repo-size/zephyr523/𝕬𝖗𝖈𝖍𝖔𝖓ᴹᴰ-ᴮᴼᵀ ?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzephyr523%2F𝕬𝖗𝖈𝖍𝖔𝖓ᴹᴰ-ᴮᴼᵀ &count_bg=%2379C83D&title_bg=%235555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/zephyr523/𝕬𝖗𝖈𝖍𝖔𝖓ᴹᴰ-ᴮᴼᵀ /graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
     </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{PATRON-MD}/count.svg" alt="itzpatron :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{𝕬𝖗𝖈𝖍𝖔𝖓ᴹᴰ-ᴮᴼᵀ }/count.svg" alt"𝚅𝚎𝚜𝚙𝚎𝚛" :: Visitor's Count" /></p>
 
 -------
 
