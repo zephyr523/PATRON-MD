@@ -1,8 +1,8 @@
 {
-  "name": "PATRON-MD",
+  "name": "𝕬𝖗𝖈𝖍𝖔𝖓ᴹᴰ-ᴮᴼᵀ ",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/Itzpatron/PATRON-MD",
-  "logo": "https://i.imgur.com/5wsWcjp.jpeg",
+  "repository": "https://github.com/zephyr523/PATRON-MD",
+  "logo": "https://imgur.com/a/UwzIkP5.jpeg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
