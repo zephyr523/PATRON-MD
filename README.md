@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-𝕬𝖗𝖈𝖍𝖔𝖓 Multi Device Bot is a automated whatsapp bot created by <a href="https://github.com/zephyr523" target="_blank">PATRON-MD </a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs And cheems v8</a>. Dont forget to give a star bro.
+𝕬𝖗𝖈𝖍𝖔𝖓 Multi Device Bot is a automated whatsapp bot created by <a href="https://github.com/zephyr523" target="_blank">𓂀 𝔗𝔥𝔢 𝕍𝔢𝔰𝔭𝔢𝔯𓂀 </a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs And cheems v8</a>. Dont forget to give a star bro.
 </p>
 
 <p align="center">
