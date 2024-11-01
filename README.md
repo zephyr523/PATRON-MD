@@ -16,7 +16,7 @@
 WANNA USE BOT-HOSTING? DOWNLOAD THIS
 
   
-<a href='https://www.mediafire.com/file/tzb429ttp2w28or/𝕬𝖗𝖈𝖍𝖔𝖓ᴹᴰ-ᴮᴼᵀ -master+(1).zip/file' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Bot Hosting-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://www.mediafire.com/file/x72qx4fgqa3q6bd/𝕬𝖗𝖈𝖍𝖔𝖓ᴹᴰ-ᴮᴼᵀ.zip/file' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Bot Hosting-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 # ```Bot Info```
