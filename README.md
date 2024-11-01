@@ -39,23 +39,23 @@ WANNA USE BOT-HOSTING? DOWNLOAD THIS
 ## ```Connect With Me```
 <p align="center">
 <a href="https://www.youtube.com/@Itzpatron1"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/@Itzpatron1" /><br>
-<a href="https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q"><img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q" /><br>
+<a href="https://whatsapp.com/channel/0029VapKm2f23n3ehnzErQ1m"><img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q" /><br>
 <a href="https://t.me/THE_ELYSIAN_VAULT"><img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=white" />
-<a href="https://chat.whatsapp.com/C6pWKvDfFRTAXScxTGFqvP"><img src="https://img.shields.io/badge/Support Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://whatsapp.com/channel/0029VapKm2f23n3ehnzErQ1m"><img src="https://img.shields.io/badge/Support Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://www.instagram.com/justt.patron?igsh=MzNlNGNkZWQ4Mg=="><img src="https://img.shields.io/badge/Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=white" />
 </p>
 
 
 ## ```My Channel```
 
-- [`Whatsapp Channel`](https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q)
-- [`Support GC`](https://chat.whatsapp.com/C6pWKvDfFRTAXScxTGFqvP)
-- [`Telegram Channel`](https://t.me/patrontechhub)
+- [`Whatsapp Channel`](https://whatsapp.com/channel/0029VapKm2f23n3ehnzErQ1m)
+- [`Support GC`](https://chat.whatsapp.com/G6ZcofOolWEFdbhXXUYkqz)
+- [`Telegram Channel`](https://t.me/THE_ELYSIAN_VAULT)
 
 
 # Setup For Deployment 👇
 
-- FORK THE REPOSITORY [Here](https://github.com/Itzpatron/PATRON-MD/fork)
+- FORK THE REPOSITORY [Here](https://github.com/zephyr523/PATRON-MD/fork)
 
 ## `Scan QR Code For Session`
 [![PATRON-MD](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@Itzpatron/Patron-Pairing-1)
@@ -68,14 +68,14 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Itzpatron/PATRON-MD/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zephyr523/PATRON-MD/)
 
 ### TUTORIAL VIA PANEL
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/ygIOzvZS0z0?si=79yGQpgdIqa4Yt0U)
 
 ### ☁️ DEPLOY ON RENDER
-[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FItzpatron-Li%2FPATRON-MD)
+[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2Fzephyr523-Li%2FPATRON-MD)
 
 ------------------
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@itzpatron1)
@@ -89,7 +89,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * Any text editor
 ## `Clone Repo & Installation dependencies`
 ```bash
-git clone https://github.com/Itzpatron/PATRON-MD.git
+git clone https://github.com/zephyr523/PATRON-MD.git
 cd PATRON-MD
 
 npm start
@@ -106,7 +106,7 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/Itzpatron/PATRON-MD
+git clone https://github.com/zephyr523/PATRON-MD
 cd PATRON-MD
 termux-setup-storage
 yarn install
@@ -120,7 +120,7 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagrmagick
 apt install bash
-git clone https://github.com/Itzpatron/PATRON-MD
+git clone https://github.com/zephyr523/PATRON-MD
 cd PATRON-MD
 npm start
 ```
